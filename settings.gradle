@@ -1,0 +1,2 @@
+rootProject.name='Fsoc'
+include ':app'
